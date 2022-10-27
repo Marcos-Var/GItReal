@@ -1,0 +1,3 @@
+    **  COMANDOS PARA LA LAS RAMAS
+    
+ojo.- toda rama que se cree y funciona tiene que juntar al final con la rama master 
