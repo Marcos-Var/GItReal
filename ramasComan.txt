@@ -8,3 +8,15 @@ git branch /nombre de la rama
 listar ramas:   git branch
 
 moverse entre ramas:        git switch /nombre
+
+un Fast forward es que tu rama externa se una a la rama master
+y ahora la rama master tiene lo de la otra
+
+para hacer primero ve a tu rama master
+e introduce git merge /nombre
+ y listo
+
+ lo recomendable es borrar la rama despues:
+ git branch --delete (o -d) /nombre
+
+ Listo
